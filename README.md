@@ -6,7 +6,7 @@ In this repository is a collection of the datasets :
 
  -Train.csv :A raw datatable of csv format that was cleaned and prepared , renamed and exported for analysis.
  
- -Financial_Inclusivity.csv :The cleaned and renamed version of the Train.csv dataset that is used for analysis and as a basis for recommendations .
+ -Financial_Inclusivity.csv :The cleaned and renamed version of the Train.csv dataset that is used for analysis and as a basis for recommendations.
  
  -FINANCIAL INCLUSIVITY DATA REPORT :A docx file that details the CRISP-DM style data report based on the Financial_Inclusivity.csv and outlines the target objectives, their  conclusions, the approaches used,recommendations and cumulatives analyses from the target datasets.
  

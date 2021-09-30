@@ -8,6 +8,8 @@ In this repository is a collection of the datasets :
  
  -Financial_Inclusivity.csv :The cleaned and renamed version of the Train.csv dataset that is used for analysis and as a basis for recommendations.
  
+ -Variabledefinitions.csv :A datatable that explains all the details represented by each column title in the Train.cvs dataset.
+ 
  -FINANCIAL INCLUSIVITY DATA REPORT :A docx file that details the CRISP-DM style data report based on the Financial_Inclusivity.csv and outlines the target objectives, their  conclusions, the approaches used,recommendations and cumulatives analyses from the target datasets.
  
  -Brainy Badgers Financial Inclusion.ipynb :The python coding language book worked with in order to carry out the cleaning ,visualization and analyses of the Financial_Inclusivity.cvs dataset.The processes themselves carried out using the pandas library ,numpy library , with visualization through matplotlib.
